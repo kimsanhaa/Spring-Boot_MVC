@@ -1,0 +1,12 @@
+.div_1{position: absolute;
+    left: 50%;
+    width:1200px;
+    margin: 0px 0px 0px -600px;
+}
+.div_2{background-color: #2eaab7; height: 210px;}
+.header{text-align: center; color: white; font-size: 28px; padding-top: 30px; font-weight: bolder;}
+.searchBar{text-align: center; padding-top: 50px;}
+.search{width:90%; height: 60px;border:none;}
+.btn{background-color: #d8c90e; margin-left: -80px;width: 60px; height: 40px; font-weight: bold; border:none;}
+.div_3{background-color: #cae3ed; height: 1000px; overflow: hidden; }
+.content{margin: 20px 20px 20px 20px; background-color: white; height: 900px;}
